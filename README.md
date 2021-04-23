@@ -10,9 +10,8 @@ Next.js
 💻 Getting started
 Requirements
 You need to install both Node.js and Yarn to run this project.
-Clone the project and access the folder
 
-$ git clone https://github.com/felipecrsilva/Podcastr.git && cd podcastr
+
 Follow the steps below
 
 # Install the dependencies
