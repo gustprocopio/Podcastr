@@ -12,7 +12,7 @@
 
 # 💻 Getting started
 ## Requirements
-* You need to install both [Node.js] and [Yarn] to run this project.
+* You need to install both Node.js and Yarn to run this project.
 
 
 ## Follow the steps below
