@@ -6,9 +6,9 @@ Podcastr preview
 ![image](https://user-images.githubusercontent.com/58342763/115937934-82efa280-a46f-11eb-8e74-6a3fc02dca28.png)
 
 # Tecnologies
-@ ReactJS
-@ Typescript
-@ Next.js
+* ReactJS
+* Typescript
+* Next.js
 
 # 💻 Getting started
 Requirements
